@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "nombre": "ALejandro",
+        "apellido": "Max",
+        "edad": 21,
+        "correo": "a@gmail.com",
+        "contrasena": 123,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 2,
+        "nombre": "Algo",
+        "apellido": "Algo",
+        "edad": 2,
+        "correo": "asasdasd",
+        "contrasena": 13,
+        "rol": "ADMIN",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 3,
+        "nombre": "Joel",
+        "apellido": "Jaurez",
+        "edad": 17,
+        "correo": "daddyYankee@gmail.com",
+        "contrasena": 2136,
+        "rol": "ACTIVO",
+        "estado": "ACTIVO"
+    },
+    {
+        "id": 4,
+        "nombre": "Alleh",
+        "apellido": "Yorghaki",
+        "edad": 25,
+        "correo": "allehcapaz@gmail.com",
+        "contrasena": 2141,
+        "rol": "USUARIO",
+        "estado": "SUSPENDIDO"
+    }
+]

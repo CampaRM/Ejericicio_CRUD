@@ -1,4 +1,4 @@
-import { ProductoRepository } from "../data/productoRepository";
+import { ProductoRepository } from "../repository/productoRepository";
 import { Producto } from "../models/producto";
 
 export class ProductoService {

@@ -1,4 +1,4 @@
-import { PedidoRepository } from "../data/pedidoRepository";
+import { PedidoRepository } from "../repository/pedidoRepository";
 import { Pedido } from "../models/pedido";
 
 export class PedidoService {

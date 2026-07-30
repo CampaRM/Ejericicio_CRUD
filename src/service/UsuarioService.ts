@@ -1,4 +1,4 @@
-import { UsuarioRepository } from "../data/UsuarioRepository";
+import { UsuarioRepository } from "../repository/UsuarioRepository";
 import { Usuario } from "../models/Usuario";
 
 export class UsuarioService {

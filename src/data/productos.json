@@ -1,0 +1,10 @@
+[
+    {
+        "id": 2,
+        "nombre": "Keke de caballo",
+        "marca": "patito",
+        "categoria": "comida",
+        "precio": 1e+28,
+        "stock": 1
+    }
+]

@@ -15,7 +15,7 @@ export async function loginMenu() {
     console.log("3. Salir");
     console.log("|---------------------|");
 
-    opcion = Number(await rl.question("Dame un nuevo valor para opciones: "));
+    opcion = Number(await rl.question("Dame un nuevo valor para opciones: \n"));
 
     if (opcion === 3) {
       break;

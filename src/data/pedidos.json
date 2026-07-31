@@ -1,0 +1,11 @@
+[
+    {
+        "id": 1,
+        "usuarioId": 3,
+        "productoId": 1,
+        "cantidad": 67,
+        "total": 400,
+        "fecha": "2026-2-12",
+        "estado": "PENDIENTE"
+    }
+]

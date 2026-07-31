@@ -1,5 +1,5 @@
 import { loginMenu } from "./menu/loginMenu";
-import { menuPrincipal } from "./menu/MenuPrincipal";
+import "./server/Server";
 
 async function main() {
     await loginMenu();
